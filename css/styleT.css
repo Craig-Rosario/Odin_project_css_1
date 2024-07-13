@@ -81,9 +81,9 @@ nav ul li a {
 
 
 .div1 {
-    background-color: #E5E7EB;
+    background-color: #F9FAF8;
     height: 400px;
-    padding: 85px 85px 0 85px;
+    padding: 85px 85px 85px 85px;
 }
 
 .heading {
@@ -129,4 +129,56 @@ nav ul li a {
     width: 130px;
     margin: 0 30px;
     border-radius: 8px;
+}
+
+.subs {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.s1 {
+    height: 111px;
+    width: 130px;
+    margin: 0 30px;
+    color: #1F2937;
+    font-size: 18px;
+}
+
+.s2 {
+    height: 111px;
+    width: 130px;
+    margin: 0 30px;
+    color: #1F2937;
+    font-size: 18px;
+}
+
+.s3 {
+    height: 111px;
+    width: 130px;
+    margin: 0 30px;
+    color: #1F2937;
+    font-size: 18px;
+}
+
+.s4 {
+    height: 111px;
+    width: 130px;
+    margin: 0 30px;
+    color: #1F2937;
+    font-size: 18px;
+}
+
+.div2 {
+    background-color: #E5E7EB;
+    height: 400px;
+    padding: 85px 85px 85px 85px;
+}
+
+.t1 {
+    display: flex;
+    justify-content: center;
+    font-size: 36px;
+    font-weight: bold;
+    margin: 100px 0 0 0;
 }
