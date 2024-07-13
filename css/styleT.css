@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #1F2937;
+}
+
+.logo {
+    display: flex;
+    color: white;
+}
+.logo h1{
+    margin: 30px 344px;
+}
+
+.logo img {
+    height: 65px;
+    padding: 20px 400px 20px 200px;
+    width: 118px;
+}
+
+nav ul {
+    display: flex;
+    padding: 36px 100px 0 0;
+}
+
+nav ul li {
+    list-style-type: none;
+    padding: 0px 45px;
+
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: white;
+}
+
+.desc{
+    display: flex;
+}
+nav img {
+    height: 200px;
+    width: 370px;
+}
