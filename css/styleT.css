@@ -7,40 +7,67 @@ header {
     background-color: #1F2937;
 }
 
-.logo {
-    display: flex;
-    color: white;
-}
-.logo h1{
-    margin: 30px 344px;
+nav {
+    font-size: 24px;
 }
 
-.logo img {
-    height: 65px;
-    padding: 20px 400px 20px 200px;
-    width: 118px;
+.logo {
+    color: #F9FAF8;
+    display: flex;
+    justify-content: space-around;
+}
+
+nav h1 {
+    padding: 20px 0;
 }
 
 nav ul {
     display: flex;
-    padding: 36px 100px 0 0;
+    padding: 20px 0;
 }
 
 nav ul li {
     list-style-type: none;
-    padding: 0px 45px;
-
+    margin: 0 15px;
 }
 
 nav ul li a {
+    color: #F9FAF8;
     text-decoration: none;
-    color: white;
+
 }
 
-.desc{
+.desc {
     display: flex;
+    justify-content: space-evenly;
+    margin: 125px 0;
+    padding: 0 0 125px 0;
 }
-nav img {
-    height: 200px;
-    width: 370px;
+
+.text {
+    margin: 0 0 0 40px;
+
+}
+
+.text h1 {
+    font-size: 48px;
+    font-weight: bold;
+    color: #F9FAF8;
+}
+
+.text p {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.text h2 {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+.image img {
+    height: 207px;
+    width: 327px;
+    margin: 0 37px;
+    padding: 0 31px 0 0px;
 }
