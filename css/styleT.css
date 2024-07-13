@@ -40,7 +40,7 @@ nav ul li a {
 .desc {
     display: flex;
     justify-content: space-evenly;
-    margin: 125px 0;
+    margin: 125px 0 0 0;
     padding: 0 0 125px 0;
 }
 
@@ -63,6 +63,13 @@ nav ul li a {
 .text h2 {
     font-size: 24px;
     color: #F9FAF8;
+    padding: 5px 0;
+    background-color: #3882F6;
+    text-align: center;
+    border-radius: 10px;
+    width: 100px;
+    height: 30px;
+    margin: 20px 0;
 }
 
 .image img {
@@ -70,4 +77,56 @@ nav ul li a {
     width: 327px;
     margin: 0 37px;
     padding: 0 31px 0 0px;
+}
+
+
+.div1 {
+    background-color: #E5E7EB;
+    height: 400px;
+    padding: 85px 85px 0 85px;
+}
+
+.heading {
+    display: flex;
+    font-size: 36px;
+    font-weight: bold;
+    justify-content: center;
+}
+
+.boxes {
+    display: flex;
+    justify-content: center;
+    margin: 105px 0 0 0;
+}
+
+.b1 {
+    border: 3px solid #3882F6;
+    height: 130px;
+    width: 130px;
+    margin: 0 30px;
+    border-radius: 8px;
+}
+
+.b2 {
+    border: 3px solid #3882F6;
+    height: 130px;
+    width: 130px;
+    margin: 0 30px;
+    border-radius: 8px;
+}
+
+.b3 {
+    border: 3px solid #3882F6;
+    height: 130px;
+    width: 130px;
+    margin: 0 30px;
+    border-radius: 8px;
+}
+
+.b4 {
+    border: 3px solid #3882F6;
+    height: 130px;
+    width: 130px;
+    margin: 0 30px;
+    border-radius: 8px;
 }
