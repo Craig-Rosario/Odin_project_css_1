@@ -179,6 +179,64 @@ nav ul li a {
     display: flex;
     justify-content: center;
     font-size: 36px;
-    font-weight: bold;
     margin: 100px 0 0 0;
+}
+
+.t1a {
+    display: flex;
+    justify-content: center;
+    margin: 16px 0 0 400px;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.div3 {
+    background-color: #F9FAF8;
+    height: 400px;
+    padding: 85px 85px 85px 85px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.login {
+    width: 60vw;
+    height: 200px;
+    background-color: #3882f6;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.text1 {
+    padding: 0px 200px 10px 0;
+    color: #F9FAF8
+}
+
+.text1 h2 {
+    font-weight: bold;
+    font-size: 32px;
+}
+
+.text1 p {
+    font-size: 20px;
+}
+
+.signup {
+    border: 2px solid #F9FAF8;
+    color: #F9FAF8;
+    padding: 5px;
+    border-radius: 5px;
+    width: 96px;
+    text-align: center;
+}
+
+footer {
+    background-color: #1F2937;
+    color: #F9FAF8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
 }
